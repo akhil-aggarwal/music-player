@@ -6,13 +6,7 @@ body {
   padding: 0% 15%;
 }
 
-#screen {
-  min-width: 50%;
-  display: inline;
-}
-
-#sidebar {
-  min-width: 20%;
-  background-color: aqua;
-  display: inline;
+header {
+  position: sticky;
+  top: 0;
 }
